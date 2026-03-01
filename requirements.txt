@@ -1,0 +1,7 @@
+streamlit
+pandas
+numpy
+sentence-transformers
+rapidfuzz
+matplotlib
+openpyxl
